@@ -16,7 +16,7 @@ Data Wrangling: Due to the number of reviews Rate My Professors has for each sch
 
 ### __Results__    
 
-!["Figures]()
+!["Figures](https://github.com/njones738/Why-Withdraw/blob/main/data/images/exec_sum_figures.JPG)
 
 * Review Count Per School (Figure 1): Figure 1 displays the frequency of reviews over time. The total number of reviews is displayed by the grey bar. The gold bars layered on top are reviews from KSU. This plot shows an increase in review frequency over time with the peak happening the in the 2016-2017 school year. Notably, there was a sizable increase in reviews after the 2008-2009 school year. 
 * Review Sentiment Count (Figure 2): Figure 2 displays the results of the sentiment analysis on the review comments, which labelled 78,944 reviews as ‘Negative’ (red) and 207,341 as ‘Positive’ (green). To verify the results, a comparison was made between the overall ratings, the sentiment labels, and the count of reviews.
